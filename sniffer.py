@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
-Sniffer con Scapy:
+LUNA___EMG
+BIENVENIDO A MI SNIFFER CON SCAPY:
 - argumentos CLI (iface, filter, count, timeout, outfile)
 - store=False para no retener en memoria
 - PcapWriter para persistencia en tiempo real
